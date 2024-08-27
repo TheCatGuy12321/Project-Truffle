@@ -22,6 +22,10 @@ output_csv = args.output_csv
 
 answers.append(d(float(root(float(a), n))).normalize())
 
+if a==1:
+    print("1")
+    exit()
+
 angle = d(360/n)
 
 for i in range(1, n):
