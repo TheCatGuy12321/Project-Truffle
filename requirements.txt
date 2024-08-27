@@ -3,3 +3,4 @@ numpy
 matplotlib
 opencv-contrib-python
 audiotonumpy
+gmpy2
