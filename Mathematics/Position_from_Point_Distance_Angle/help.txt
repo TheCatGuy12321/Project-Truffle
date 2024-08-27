@@ -1,0 +1,1 @@
+Gets the Coordinate of point B given the coordinates of point A, distance from A to B, and the angle BAC where C is a point placed somewhere on the same line parallel to the x axis and crossing A.
